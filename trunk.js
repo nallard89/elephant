@@ -1,3 +1,3 @@
 function sup(){
-    return 'sup trunk';
+    console.log('hello');
 }
